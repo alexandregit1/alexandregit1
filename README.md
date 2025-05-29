@@ -39,7 +39,7 @@ I'm a passionate Front-End developer focused on building responsive, user-friend
 ## Contact
 
 <p align="center">
-  <a href="[https://linkedin.com/in/alexandre-silva-de-araujo-alves/(https://www.linkedin.com/in/alexandre-silva-de-araujo-alves/)"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/alexandre-silva-de-araujo-alves/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:alexandress.2005j@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
