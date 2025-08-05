@@ -31,7 +31,6 @@ I'm a passionate Front-End developer focused on building responsive, user-friend
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alexandregit1&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandregit1&theme=tokyonight" />
 </p>
 
 ---
