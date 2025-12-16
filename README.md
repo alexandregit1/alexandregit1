@@ -27,11 +27,11 @@ I enjoy collaborating with cross-functional teams, integrating APIs efficiently,
 | ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js\&logoColor=fff) | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot\&logoColor=fff) | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github) |
 | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=fff) | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js\&logoColor=fff) | ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab\&logoColor=fff) |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=000) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb\&logoColor=fff) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma\&logoColor=fff) |
-| ![AngularJS](https://img.shields.io/badge/Angular-E23237?logo=angular\&logoColor=fff) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase\&logoColor=000) | ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello\&logoColor=fff) |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5\&logoColor=fff) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=fff) | ![Axios](https://img.shields.io/badge/Axios-5A29E4) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css\&logoColor=fff) | | ![React%20Query](https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery\&logoColor=fff) |
-| ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss\&logoColor=fff) | | ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens) |
-| ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap\&logoColor=fff) | | ![NextAuth](https://img.shields.io/badge/NextAuth-000000) |
+| ![AngularJS](https://img.shields.io/badge/Angular-E23237?logo=angular\&logoColor=fff) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase\&logoColor=000) | |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5\&logoColor=fff) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=fff) | |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css\&logoColor=fff) | | |
+| ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss\&logoColor=fff) | | |
+| ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap\&logoColor=fff) | | |
 | ![SASS](https://img.shields.io/badge/SASS-CC6699?logo=sass\&logoColor=fff) | | |
 ---
 
