@@ -8,7 +8,7 @@
 
 ## About Me
 
-I'm a Frontend Developer focused on building modern, responsive, and scalable web interfaces.
+I'm a Frontend Developer focused on building modern, responsive, and scalable interfaces.
 I work mainly with React, Next.js and Angular, applying clean architecture, reusable components, and UI/UX best practices to deliver high-quality user experiences.
 
 I enjoy collaborating with cross-functional teams, integrating APIs efficiently, and continuously improving performance and code quality. 
